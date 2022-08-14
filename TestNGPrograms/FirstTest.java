@@ -25,7 +25,8 @@ public void second()
 	WebElement LoginBtn =  driver.findElement(By.xpath("//button[@name='login']"));
 	username.sendKeys("hbinekar45@gmail.com");
 	password.sendKeys("12346788");
+//	LoginBtn.click();
+//	LoginBtn.click();
 	LoginBtn.click();
-	
 }
 }
