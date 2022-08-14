@@ -26,7 +26,7 @@ public void second()
 	username.sendKeys("hbinekar45@gmail.com");
 	password.sendKeys("12346788");
 //	LoginBtn.click();
+//	LoginBtn.click();
 	LoginBtn.click();
-	
 }
 }
